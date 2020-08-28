@@ -184,9 +184,8 @@ h1 {
 	.info-left
 	{
 		position: absolute;
-		float: left;
-		width: 280px;
-		left:360px;
+		max-width: 260px;
+		padding-right: 0%;
 		text-align: right;
 	}
 	.info-left h3
@@ -200,10 +199,9 @@ h1 {
 	.info-right 
 	{
 		position: absolute;
-		float: right;
-		width: 280px;
-		right:360px;
-		text-align: left;
+    		max-width: 280px;
+    		right: 360px;
+		padding-left:5%;
 	}
 	.info-right h3
 	{
