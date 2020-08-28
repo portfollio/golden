@@ -185,7 +185,6 @@ h1 {
 	{
 		position: absolute;
 		max-width: 260px;
-		padding-right: 0%;
 		text-align: right;
 	}
 	.info-left h3
@@ -199,9 +198,8 @@ h1 {
 	.info-right 
 	{
 		position: absolute;
-    		max-width: 280px;
-    		right: 360px;
-		padding-left:5%;
+		max-width: 360px;
+		right: 20%;
 	}
 	.info-right h3
 	{
